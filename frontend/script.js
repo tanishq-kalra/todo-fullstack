@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/todos";
+const API_URL = "https://todo-fullstack-rbyg.onrender.com/api/todos";
 
 /* 🌙 Load saved theme */
 const savedTheme = localStorage.getItem("theme");
